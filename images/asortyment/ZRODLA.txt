@@ -1,7 +1,7 @@
 Zdjęcia podkategorii – Pixabay (Pixabay Content License: darmowe także komercyjnie, bez podpisu autora),
 chyba że zaznaczono inaczej. Nazwa pliku = podkategoria, w nawiasie numer zdjęcia na pixabay.com.
 
-systemy-pex (3814621), rury-pp-r-pe (986318), rury-pp-szare (961723), rury-pe-do-ziemi (2498377),
+systemy-pex (3814621), rury-stalowe (6967964), rury-pp-szare (961723), rury-pe-do-ziemi (2498377),
 rury-miedziane (1002142), ksztaltki-cu (1039483), ksztaltki-conex (1002128),
 ksztaltki-flp (4482868), zlaczki-fls (1189550), ksztaltki-mosiezne (1283313), ksztaltki-czarne (1039484),
 ksztaltki-ocynkowane (1433606), kanalizacja-wewnetrzna (986316), kanalizacja-zewnetrzna (2259514),
@@ -20,3 +20,8 @@ elektryka-kafel – rawpixel „Free colorful electrical wire photo” https://w
 mocowania-kafel (29.09.2026) – zdjęcia producenta fischer (fischerpolska.pl, kołek SX Plus: W1_P_P_SX-PLUS-8X40-CGI_V1, W1_P_G_SX-PLUS-CGI_V1) złożone na białym tle – kołki FIS sprzedawane przez HYDROKAN
 
 ksztaltki-pp.jpg – zdjęcie przesłane przez klienta 30.09.2026 (kolanka PP), wyśrodkowane na białym tle 960×600.
+
+13.10.2026:
+syfony.jpg – Wikimedia Commons „Sifon.JPG”, VanBuren, CC BY-SA 3.0
+uszczelnianie.jpg – Wikimedia Commons „PTFE tape01.jpg”, Miya.m, CC BY-SA 3.0
+gaz-pe.jpg – Wikimedia Commons „Electrofusion fitting (2).jpg”, Bilko2, CC0
